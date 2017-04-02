@@ -27,7 +27,7 @@ See: [backup_mattermost.conf.sample](backup_mattermost.conf.sample)
 Just execute the script:
 
 ```bash
-./backup_mattermost.conf
+./backup_mattermost.sh
 ```
 
 ## Setup cron job
